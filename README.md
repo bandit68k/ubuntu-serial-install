@@ -1,5 +1,5 @@
-HOWTO Install Ubuntu Server via Serial Console
-==============================================
+HOWTO Install Ubuntu Server 20.04 via Serial Console
+====================================================
 
 Here is a short guide on how to boot an Ubuntu Server installation from USB using only the serial console.
 

@@ -70,18 +70,18 @@ Installation
 3. Proceed with normal Ubuntu installation.
 4. After installation, edit /etc/default/grub as follows:
 
-	```
-    GRUB_CMDLINE_LINUX_DEFAULT=""
-    GRUB_TERMINAL='serial console'
-    GRUB_CMDLINE_LINUX="console=tty0 console=ttyS0,115200n8"
-    GRUB_SERIAL_COMMAND="serial --speed=115200 --unit=0 --word=8 --parity=no --stop=1"
-	```
+```
+GRUB_CMDLINE_LINUX_DEFAULT=""
+GRUB_TERMINAL='serial console'
+GRUB_CMDLINE_LINUX="console=tty0 console=ttyS0,115200n8"
+GRUB_SERIAL_COMMAND="serial --speed=115200 --unit=0 --word=8 --parity=no --stop=1"
+```
 
 5. Update the grub configuration:
 
-	```
-	# update-grub
-	```
+```
+# update-grub
+```
 
 Reference
 ---------

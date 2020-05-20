@@ -2,7 +2,9 @@ HOWTO Install Ubuntu Server via Serial Console
 ==============================================
 
 Here is a short guide on how to boot an Ubuntu Server installation from USB using only the serial console.
+
 This has been tested using Ubuntu Server 20.04 on a PCEngines APU1 device.
+
 These instructions have not been tested with UEFI boot as this is not supported by the PCEngines APU1.
 
 USB Boot Disk Setup

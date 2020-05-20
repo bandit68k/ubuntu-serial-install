@@ -7,7 +7,7 @@ This has been tested using Ubuntu Server 20.04 on a PCEngines APU1 device.
 
 These instructions have not been tested with UEFI boot as this is not supported by the PCEngines APU1.
 
-https://user-images.githubusercontent.com/56522195/82498039-337a5700-9ae7-11ea-8fcd-98e8c9f3acd9.png
+![Screenshot](https://user-images.githubusercontent.com/56522195/82498039-337a5700-9ae7-11ea-8fcd-98e8c9f3acd9.png)
 
 USB Boot Disk Setup
 -------------------
